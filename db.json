@@ -1,0 +1,16 @@
+{
+  "expenses": [
+    {
+      "name": "breakfast ",
+      "amount": 200,
+      "date": "2024-06-17",
+      "id": 1
+    },
+    {
+      "name": "transportation - bus",
+      "amount": 150,
+      "date": "2024-06-20",
+      "id": 2
+    }
+  ]
+}
